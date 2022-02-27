@@ -1,2 +1,2 @@
-# Deep_Learning_vis
+# Deep Learning Visualization
 Study of visualization techniques in deep neural networks
